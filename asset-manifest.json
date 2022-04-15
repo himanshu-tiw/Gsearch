@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gsearch/static/css/main.9fdde528.css",
+    "main.js": "/Gsearch/static/js/main.2e658b91.js",
+    "index.html": "/Gsearch/index.html",
+    "main.9fdde528.css.map": "/Gsearch/static/css/main.9fdde528.css.map",
+    "main.2e658b91.js.map": "/Gsearch/static/js/main.2e658b91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fdde528.css",
+    "static/js/main.2e658b91.js"
+  ]
+}
